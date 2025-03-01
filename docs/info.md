@@ -9,6 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+
 Takes inputs from hand gestures and activates outputs
 ## How to test
 
