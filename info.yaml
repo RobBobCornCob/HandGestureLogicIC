@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     424261052847683585       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     424261622865184769       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "HandGesture thing"      # Project title
   author:       "RobBohl"      # Your name
   discord:      "N/A"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
