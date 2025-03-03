@@ -13,8 +13,10 @@ You can also include images in this folder and reference them in the markdown. E
 Takes inputs from hand gestures and activates outputs
 ## How to test
 
-Explain how to use your project
+Attach a DIP switch to the input pins and LEDs to the outputs to test the logic
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+5 Flex Sensors
+5 Op Amp circuits
+multiple outputs
